@@ -1,0 +1,2 @@
+* LaTeX Standard Template *
+This is my standard LaTeX template, that includes all the initial setup that is often needed. It includes packages for APA Style citing, footnotes, images, hyperlinking within the PDF and more.  
