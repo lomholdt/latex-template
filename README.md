@@ -12,3 +12,9 @@ To add an image, insert the folowing code
 	\caption[My image caption in the TOC]{My image caption under the actual image \label{fig:my-label-for-the-image}}
 \end{figure}
 ```
+
+## Citation
+For citing we use APA Style. The package is already included, so it's easy to cite by doing either of the following commands:
+- `\cite{yourstone2008classroom}` to cite whole articles
+- `\cite[p.~280]{yourstone2008classroom}` to cite a specific page of an author
+- `\citeA{yourstone2008classroom}` to cite just the author
